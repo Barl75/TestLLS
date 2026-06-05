@@ -5,7 +5,7 @@ Storymap Subtitle,<br><small>Scorri <i class='fa fa-chevron-down'></i></small>,"
 Storymap Logo,,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,"For help, see tutorial in HandsOnDataViz.org"
-Basemap Tiles,OpenStreetMap.Mapnik,"Select basemap. For Stadia tiles, add domain-based authentication."
+Basemap Tiles,OpenStreetMap,"Select basemap. For Stadia tiles, add domain-based authentication."
 Basemap Tiles API Key,,"If required, insert an API key for tiles. See Stadia note above."
 Zoom Controls,bottomright,
 Narrative Background Color,,
